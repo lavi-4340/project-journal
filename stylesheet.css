@@ -1,0 +1,39 @@
+﻿body{
+    margin: 0;
+    padding: 0;
+    background-image: url('pink square with white border 2.png');
+    background-repeat: repeat;
+    height: 100px;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+div.a{
+}
+
+InputBox{
+
+}
+
+
+NavigationButton1{
+	color:#ffccd4;
+	background-color:white;
+	
+}
+
+NavigationButton2{
+	color:#ffccd4;
+	background-color:white;	
+}
+
+FeelingsButton{
+	color:#ffccd4;
+	background-color:white;	
+}
+
+SaveButton{
+	color:#ffccd4;
+	background-color:white;	
+
+}
